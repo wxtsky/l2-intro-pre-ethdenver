@@ -31,7 +31,7 @@ In order to prevent users to leak private keys, this project includes the `doten
 To use it, rename `.env.example` to `.env` and enter your private key.
 
 ```
-WALLET_PRIVATE_KEY=123cde574ccff....
+WALLET_PRIVATE_KEY=123cde574ccff.....
 ```
 
 ## Workshop tasks
